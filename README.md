@@ -18,6 +18,8 @@
     <animateMotion id="down" begin="0;up.end" xlink:href="#triangle" dur="15s" rotate="auto-reverse" repeatCount="indefinite">
       <mpath xlink:href="#num" />
     </animateMotion>
+    
+    <image xlink:href="a.png" x="100" y="280" width="30%"/>
   </svg>
 </body>
 
